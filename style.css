@@ -2,6 +2,7 @@
     margin: 0%;
     padding:0%;
     box-sizing: border-box;
+    
 }
 
 #container{
@@ -308,7 +309,7 @@ button:hover{
     }
 
     .mp04 {
-        width:60%;
+        width:100%;
     }
   
     .mp04  video{
